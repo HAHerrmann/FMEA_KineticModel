@@ -1,3 +1,5 @@
+# Metabolic Model of Diurnal Organic Acid Accumulation
+
 The following model was created in COPASI and parametrized for control conditions using the experimentally measured concentration values at 20 degrees Celcius.
 
 The results show that a change in FUM2 activity and Gas exchange values is sufficient to explain malate and fumarate across the three genotypes when an additional activation and inhibition is included is the model.
